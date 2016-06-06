@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int number;
+scanf(%d,&number);
+if(numkber<0)
+printf("\n the number is negetive");
+else if(number>0)
+printf("\n the number is positive");
+else
+printf("the number is zero");
+return o;
+}
